@@ -15,3 +15,32 @@ The coordinators of the workshop are:
 - Sophie Ham, National Library of the Netherlands, Netherlands
 - Steven Claeyssens, National Library of the Netherlands, Netherlands 
 
+## Digital collections
+This datasets used in this workshop are the following Web Archives:
+
+- [Australian Web Archive](https://web.archive.org.au/awa/)
+- [UK Government Web Archive](https://webarchive.nationalarchives.gov.uk/ukgwa/)
+
+## Notebooks
+This project contains the following Jupyter Notebooks:
+
+- getting_text_from_web_pages_AWA
+- getting_text_from_web_pages_UK
+
+ ## Running the notebooks
+**To execute the notebook in Binder:**
+
+- Click the launch binder button above. Once the demo launches, click My_sample_notebook.ipynb in the file listing.
+- Run the notebook by selecting Cell > Run All. You call also click the play button to run the notebook cell by cell. You will the output of each cell.
+- You can edit the cells, and click on play to run and see the changes.
+
+## Licence
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
+
+Please, note that the datasets used in this project have separate licences.
+
+## References
+- [GLAM Workbench](https://glam-workbench.net/)
+- [International GLAM Labs Community](https://glamlabs.io/)
+- Candela, G., Chambers, S., & Sherratt, T. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. Journal of the Association for Information Science and Technology, 74(13), 1550–1564. https://doi.org/10.1002/asi.24835
+- Candela, G., Holownia, O., Odsbjerg, M., Cuper, M., Gabriëls, N., Hofmann, K., Gray, E.J., Chambers, S. and Mahey, M. (2025) ‘Promoting Computational Access to Digital Collections in the Nordic and Baltic Countries: An Icelandic Use Case’, <i>Journal of Open Humanities Data</i>, 11(1), p. 7. Available at: https://doi.org/10.5334/johd.261.
