@@ -1,4 +1,7 @@
 # workshop-notebooks-wac-dhnb2025
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/workshop-notebooks-wac-dhnb2025/HEAD)
+
 Examples of code to extract Web Archive Content to create collections as data
 
 <img src="images/dhnb.png" width="70%">
