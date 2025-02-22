@@ -24,8 +24,10 @@ This datasets used in this workshop are the following Web Archives:
 ## Notebooks
 This project contains the following Jupyter Notebooks:
 
-- getting_text_from_web_pages_AWA
-- getting_text_from_web_pages_UK
+- [getting_text_from_web_pages_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_AWA.ipynb)
+- [getting_text_from_web_pages_UK](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_UK.ipynb)
+
+These examples are based on and have been adapted from the code provided by the [GLAM Workbench](https://glam-workbench.net/), in particular in the Web Archive section.
 
  ## Running the notebooks
 **To execute the notebook in Binder:**
