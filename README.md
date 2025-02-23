@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/workshop-notebooks-wac-dhnb2025/HEAD)
 
-Examples of code to extract Web Archive Content to create collections as data
+Examples of code based on Jupyter Notebooks to extract Web Archive Content to create collections as data. This examples facilitate the extraction and reuse of datasets of text extracted from all available captures of archived web pages. The datasets can be employed to analyse changes over time and to identify the most relevant words.
 
 <img src="images/dhnb.png" width="70%">
 
@@ -27,10 +27,10 @@ This datasets used in this workshop are the following Web Archives:
 ## Notebooks
 This project contains the following Jupyter Notebooks:
 
-- [getting_text_from_web_pages_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_AWA.ipynb)
-- [getting_text_from_web_pages_UK](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_UK.ipynb)
-- [frequency_words_downssteams_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/frequency_words_downssteams_AWA.ipynb)
-- [getting_text_from_web_pages_advanced_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_advanced_AWA.ipynb)
+- Extraction of text from the Australian Web Archive: [getting_text_from_web_pages_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_AWA.ipynb)
+- Extraction of text from the UK Government: [getting_text_from_web_pages_UK](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_UK.ipynb)
+- Reusing the extracted text from the Australian Web Archive: [reusing_downssteams_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/reusing_downssteams_AWA.ipynb)
+- Using advanced functionalities: [getting_text_from_web_pages_advanced_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_advanced_AWA.ipynb)
 
 These examples are based on and have been adapted from the code provided by the [GLAM Workbench](https://glam-workbench.net/), in particular in the Web Archive section.
 
