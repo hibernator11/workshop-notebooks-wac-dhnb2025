@@ -26,10 +26,11 @@ This datasets used in this workshop are the following Web Archives:
 
 ## Notebooks
 This project contains the following Jupyter Notebooks:
-
 - Extraction of text from the Australian Web Archive: [getting_text_from_web_pages_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_AWA.ipynb)
 - Extraction of text from the UK Government: [getting_text_from_web_pages_UK](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_UK.ipynb)
 - Reusing the extracted text from the Australian Web Archive: [reusing_downssteams_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/reusing_downssteams_AWA.ipynb)
+
+ An additional Jupyter Notebook is provided to show how to use advanced functionalities to retrieve and extract text as datasets from web archives.
 - Using advanced functionalities: [getting_text_from_web_pages_advanced_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_advanced_AWA.ipynb)
 
 These examples are based on and have been adapted from the code provided by the [GLAM Workbench](https://glam-workbench.net/), in particular in the Web Archive section.
