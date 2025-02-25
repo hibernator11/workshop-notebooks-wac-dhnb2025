@@ -33,7 +33,7 @@ This project contains the following Jupyter Notebooks:
  An additional Jupyter Notebook is provided to show how to use advanced functionalities to retrieve and extract text as datasets from web archives.
 - Using advanced functionalities: [getting_text_from_web_pages_advanced_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_advanced_AWA.ipynb)
 
-These examples are based on the code provided by the [GLAM Workbench](https://glam-workbench.net/), in particular in the examples of code included in the Web Archive section.
+These examples are based on the code provided by the [GLAM Workbench](https://glam-workbench.net/), in particular in the examples of code included in the Web Archive section. Please, note that some of the examples provided may not work due to access limitations in terms of number of requests in a small amount of time. They are provided as examples of use.
 
  ## Running the notebooks
 **To execute the notebook in Binder:**
