@@ -33,9 +33,9 @@ This project contains the following Jupyter Notebooks:
 
 <img alt="Reusing the extracted text from the Australian Web Archive" src="images/downssteam.png" width="50%">
   
-- Reusing the extracted text from the UK Web Archive: [reusing_scottish_churches_UKA-BL](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/reusing_scottish_churches_UKA-BL.ipynb)
+- Reusing the metadata provided by the Scottish Churches dataset (UK Web Archive): [reusing_scottish_churches_UKA-BL](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/reusing_scottish_churches_UKA-BL.ipynb)
 
-<img alt="Reusing the extracted text from the UK Web Archive" src="images/churches.png" width="50%">
+<img alt="Reusing the metadata provided by the UK Web Archive" src="images/churches.png" width="50%">
 
  An additional Jupyter Notebook is provided to show how to use advanced functionalities to retrieve and extract text as datasets from web archives.
 - Using advanced functionalities: [getting_text_from_web_pages_advanced_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_advanced_AWA.ipynb)
