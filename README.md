@@ -22,6 +22,7 @@ This datasets used in this workshop are the following Web Archives:
 - [Australian Web Archive](https://web.archive.org.au/awa/)
 - [UK Government Web Archive](https://webarchive.nationalarchives.gov.uk/ukgwa/)
 - [Internet Archive](https://web.archive.org/web/)
+- [UK Web Archive](https://bl.iro.bl.uk/collections/5379d014-1774-46e1-a96a-7089e7c814a3)
 
 ## Notebooks
 This project contains the following Jupyter Notebooks:
@@ -29,11 +30,12 @@ This project contains the following Jupyter Notebooks:
 - Extraction of text from the UK Government: [getting_text_from_web_pages_UK](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_UK.ipynb)
 - Extraction of text from the Internet Archive and Estonia: [getting_text_from_web_pages_EWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_EWA.ipynb)
 - Reusing the extracted text from the Australian Web Archive: [reusing_downssteams_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/reusing_downssteams_AWA.ipynb)
+- Reusing the extracted text from the UK Web Archive: [reusing_scottish_churches_UKA-BL](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/reusing_scottish_churches_UKA-BL.ipynb)
 
  An additional Jupyter Notebook is provided to show how to use advanced functionalities to retrieve and extract text as datasets from web archives.
 - Using advanced functionalities: [getting_text_from_web_pages_advanced_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_advanced_AWA.ipynb)
 
-These examples are based on the code provided by the [GLAM Workbench](https://glam-workbench.net/), in particular in the examples of code included in the Web Archive section. Please, note that some of the examples provided as examples of use and may not work due to sever access limitations such as the number of requests per second.
+Some of the examples are based on the code provided by the [GLAM Workbench](https://glam-workbench.net/), in particular in the examples of code included in the Web Archive section. Please, note that some of the examples provided as examples of use and may not work due to sever access limitations such as the number of requests per second.
 
  ## Running the notebooks
 **To execute the notebook in Binder:**
