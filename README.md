@@ -22,7 +22,7 @@ This datasets used in this workshop are the following Web Archives:
 - [Australian Web Archive](https://web.archive.org.au/awa/)
 - [UK Government Web Archive](https://webarchive.nationalarchives.gov.uk/ukgwa/)
 - [Internet Archive](https://web.archive.org/web/)
-- [UK Web Archive - British Library](https://bl.iro.bl.uk/collections/5379d014-1774-46e1-a96a-7089e7c814a3)
+- [UK Web Archive - British Library](https://bl.iro.bl.uk/collections/5379d014-1774-46e1-a96a-7089e7c814a3) - [In Copyright](http://rightsstatements.org/page/InC/1.0/?language=es)
 
 ## Notebooks
 This project contains the following Jupyter Notebooks:
