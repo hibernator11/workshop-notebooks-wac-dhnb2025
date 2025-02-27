@@ -19,9 +19,9 @@ This project provides examples of code based on Jupyter Notebooks to extract Web
 ## Digital collections
 This datasets used in this workshop are the following Web Archives:
 
-- [Australian Web Archive](https://web.archive.org.au/awa/)
-- [UK Government Web Archive](https://webarchive.nationalarchives.gov.uk/ukgwa/)
-- [Internet Archive](https://web.archive.org/web/)
+- [Australian Web Archive](https://web.archive.org.au/awa/) - [More information](https://trove.nla.gov.au/help/categories/websites-category#australian-web-archive)
+- [UK Government Web Archive](https://webarchive.nationalarchives.gov.uk/ukgwa/) - [Terms of use](https://www.nationalarchives.gov.uk/legal/)
+- [Internet Archive](https://web.archive.org/web/) - [Terms of Use, Privacy Policy, and Copyright Policy](https://archive.org/about/terms)
 - [UK Web Archive - British Library](https://bl.iro.bl.uk/collections/5379d014-1774-46e1-a96a-7089e7c814a3) - [In Copyright](http://rightsstatements.org/page/InC/1.0/?language=es)
 
 ## Notebooks
