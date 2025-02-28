@@ -10,4 +10,4 @@ numpy==1.26.4
 python-slugify==5.0.2
 nltk==3.9.1
 spacy==3.7.2
-matplotlib==3.8.0
+matplotlib==3.10.1
