@@ -65,10 +65,9 @@ Please, note that the datasets used in this project have separate licences.
 - [GLAM Workbench](https://glam-workbench.net/)
 - Sherratt, Tim; Jackson, Andrew & Bickford, Jake. (2023). GLAM-Workbench/web-archives (version v1.2.0). Zenodo. https://doi.org/10.5281/zenodo.7898218
 - [International GLAM Labs Community](https://glamlabs.io/)
-- Alkemade, H., Claeyssens, S., Colavizza, G., Freire, N., Lehmann, J., Neudecker, C., Osti, G. and van Strien, D. (2023) ‘Datasheets for Digital Cultural Heritage Datasets’, <i>Journal of Open Humanities Data</i>, 9(1), p. 17. https://doi.org/10.5334/johd.124.
+- Alkemade, H., Claeyssens, S., Colavizza, G., Freire, N., Lehmann, J., Neudecker, C., Osti, G. and van Strien, D. (2023) ‘Datasheets for Digital Cultural Heritage Datasets’, <i>Journal of Open Humanities Data</i>, 9(1), p. 17. https://doi.org/10.5334/johd.124
 - Candela, G., Chambers, S., & Sherratt, T. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. Journal of the Association for Information Science and Technology, 74(13), 1550–1564. https://doi.org/10.1002/asi.24835
 - Candela, G., Holownia, O., Odsbjerg, M., Cuper, M., Gabriëls, N., Hofmann, K., Gray, E.J., Chambers, S. and Mahey, M. (2025) ‘Promoting Computational Access to Digital Collections in the Nordic and Baltic Countries: An Icelandic Use Case’, <i>Journal of Open Humanities Data</i>, 11(1), p. 7. https://doi.org/10.5334/johd.261.
 - National Library of Norway. (2024). Web News Collection (Version 1) [Data set; SQLite and JSON (API)]. Available through the DH-lab API. http://api.nb.no/dhlab/
 - Tønnessen, J.C. and Birkenes, M.B. (2025) ‘Providing Web Archive News Articles as Corpus Data’, <i>Journal of Open Humanities Data</i>, 11(1), p. 2. https://doi.org/10.5334/johd.281
-- Candela, G., Holownia, O., Odsbjerg, M., Cuper, M., Gabriëls, N., Hofmann, K., Gray, E.J., Chambers, S. and Mahey, M. (2025) ‘Promoting Computational Access to Digital Collections in the Nordic and Baltic Countries: An Icelandic Use Case’, <i>Journal of Open Humanities Data</i>, 11(1), p. 7. https://doi.org/10.5334/johd.261
 - Candela, G. 2025. Browsing Linked Open Data in Cultural Heritage: A Shareable Visual Configuration Approach. J. Comput. Cult. Herit. 18, 1, Article 9 (March 2025), 15 pages. https://doi.org/10.1145/3707647
