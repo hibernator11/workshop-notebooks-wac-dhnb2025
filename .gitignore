@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 text/
 notebooks/text-*/
+notebooks/*.jsonl
+notebooks/*.xlsx
+
