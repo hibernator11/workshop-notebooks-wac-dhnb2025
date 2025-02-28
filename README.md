@@ -1,4 +1,4 @@
-# workshop-notebooks-wac-dhnb2025
+# Workshop Web Archives Collections as data DHNB 2025
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/workshop-notebooks-wac-dhnb2025/HEAD)
 
