@@ -67,3 +67,4 @@ Please, note that the datasets used in this project have separate licences.
 - [International GLAM Labs Community](https://glamlabs.io/)
 - Candela, G., Chambers, S., & Sherratt, T. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. Journal of the Association for Information Science and Technology, 74(13), 1550–1564. https://doi.org/10.1002/asi.24835
 - Candela, G., Holownia, O., Odsbjerg, M., Cuper, M., Gabriëls, N., Hofmann, K., Gray, E.J., Chambers, S. and Mahey, M. (2025) ‘Promoting Computational Access to Digital Collections in the Nordic and Baltic Countries: An Icelandic Use Case’, <i>Journal of Open Humanities Data</i>, 11(1), p. 7. https://doi.org/10.5334/johd.261.
+- National Library of Norway. (2024). Web News Collection (Version 1) [Data set; SQLite and JSON (API)]. Available through the DH-lab API. http://api.nb.no/dhlab/
