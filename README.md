@@ -23,7 +23,7 @@ The datasets used in this workshop are the following Web Archives:
 - [UK Government Web Archive](https://webarchive.nationalarchives.gov.uk/ukgwa/) - [Terms of use](https://www.nationalarchives.gov.uk/legal/)
 - [Internet Archive](https://web.archive.org/web/) - [Terms of Use, Privacy Policy, and Copyright Policy](https://archive.org/about/terms)
 - [UK Web Archive - British Library](https://bl.iro.bl.uk/collections/5379d014-1774-46e1-a96a-7089e7c814a3) - [In Copyright](http://rightsstatements.org/page/InC/1.0/?language=es)
-- [Norwegian We Archive - Web News Collection](https://www.nb.no/en/collection/web-archive/research/web-news-corpus/) 
+- [Norwegian Web Archive - Web News Collection](https://www.nb.no/en/collection/web-archive/research/web-news-corpus/) 
 
 Please, note that we have provided additional information for each of them about terms of use, copyright, etc.
 
