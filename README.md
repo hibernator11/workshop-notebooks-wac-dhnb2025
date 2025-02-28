@@ -23,6 +23,7 @@ The datasets used in this workshop are the following Web Archives:
 - [UK Government Web Archive](https://webarchive.nationalarchives.gov.uk/ukgwa/) - [Terms of use](https://www.nationalarchives.gov.uk/legal/)
 - [Internet Archive](https://web.archive.org/web/) - [Terms of Use, Privacy Policy, and Copyright Policy](https://archive.org/about/terms)
 - [UK Web Archive - British Library](https://bl.iro.bl.uk/collections/5379d014-1774-46e1-a96a-7089e7c814a3) - [In Copyright](http://rightsstatements.org/page/InC/1.0/?language=es)
+- [Norwegian We Archive - Web News Collection](https://www.nb.no/en/collection/web-archive/research/web-news-corpus/) 
 
 Please, note that we have provided additional information for each of them about terms of use, copyright, etc.
 
@@ -32,6 +33,7 @@ This project contains the following Jupyter Notebooks:
 - Extraction of text from the UK Government: [getting_text_from_web_pages_UK](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_UK.ipynb)
 - Extraction of text from the Internet Archive and Estonia: [getting_text_from_web_pages_EWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_EWA.ipynb)
 - Reusing the extracted text from the Australian Web Archive: [reusing_downssteams_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/reusing_downssteams_AWA.ipynb)
+- Extraction and reuse of text and metadata from the Norwegian We Archive 
 
 <img alt="Reusing the extracted text from the Australian Web Archive" src="images/downssteam.png" width="50%">
   
