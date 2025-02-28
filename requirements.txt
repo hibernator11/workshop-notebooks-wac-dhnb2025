@@ -11,3 +11,4 @@ python-slugify==5.0.2
 nltk==3.9.1
 spacy==3.7.2
 matplotlib==3.10.1
+plotly==6.0.0
