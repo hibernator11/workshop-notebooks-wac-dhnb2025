@@ -70,3 +70,4 @@ Please, note that the datasets used in this project have separate licences.
 - National Library of Norway. (2024). Web News Collection (Version 1) [Data set; SQLite and JSON (API)]. Available through the DH-lab API. http://api.nb.no/dhlab/
 - Tønnessen, J.C. and Birkenes, M.B. (2025) ‘Providing Web Archive News Articles as Corpus Data’, <i>Journal of Open Humanities Data</i>, 11(1), p. 2. https://doi.org/10.5334/johd.281
 - Candela, G., Holownia, O., Odsbjerg, M., Cuper, M., Gabriëls, N., Hofmann, K., Gray, E.J., Chambers, S. and Mahey, M. (2025) ‘Promoting Computational Access to Digital Collections in the Nordic and Baltic Countries: An Icelandic Use Case’, <i>Journal of Open Humanities Data</i>, 11(1), p. 7. https://doi.org/10.5334/johd.261
+- Candela, G. 2025. Browsing Linked Open Data in Cultural Heritage: A Shareable Visual Configuration Approach. J. Comput. Cult. Herit. 18, 1, Article 9 (March 2025), 15 pages. https://doi.org/10.1145/3707647
