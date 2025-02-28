@@ -33,13 +33,16 @@ This project contains the following Jupyter Notebooks:
 - Extraction of text from the UK Government: [getting_text_from_web_pages_UK](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_UK.ipynb)
 - Extraction of text from the Internet Archive and Estonia: [getting_text_from_web_pages_EWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_EWA.ipynb)
 - Reusing the extracted text from the Australian Web Archive: [reusing_downssteams_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/reusing_downssteams_AWA.ipynb)
-- Extraction and reuse of text and metadata from the Norwegian We Archive 
 
 <img alt="Reusing the extracted text from the Australian Web Archive" src="images/downssteam.png" width="50%">
   
 - Reusing the metadata provided by the [Scottish Churches dataset](https://bl.iro.bl.uk/concern/datasets/d99a9777-0c28-4a2c-b0f4-c7a43f836b48) (UK Web Archive): [reusing_scottish_churches_UKA-BL](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/reusing_scottish_churches_UKA-BL.ipynb)
 
 <img alt="Reusing the metadata provided by the Scottish Churches dataset" src="images/churches.png" width="50%">
+
+- Extraction and reuse of text and metadata from the Norwegian Web Archive: [webnews-textanalysis-EN](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/webnews-textanalysis-EN.ipynb)
+
+<img alt="Distribution of texts per publication title using the keywords covid-19 OR korona - Web News Collection" src="images/webnews.png" width="50%">
 
  An additional Jupyter Notebook is provided to show how to use advanced functionalities to retrieve and extract text as datasets from web archives.
 - Using advanced functionalities: [getting_text_from_web_pages_advanced_AWA](https://nbviewer.org/github/hibernator11/workshop-notebooks-wac-dhnb2025/blob/main/notebooks/getting_text_from_web_pages_advanced_AWA.ipynb)
